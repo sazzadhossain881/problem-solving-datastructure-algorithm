@@ -1,0 +1,2 @@
+1. g++ delete_array.cpp -o delete_array
+2. ./delete_array
